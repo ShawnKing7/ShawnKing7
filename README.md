@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ShawnKing7
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently...
+- 👀 I’m focused on Python for Data Analytics
 - 📫 How to reach me ...https://www.linkedin.com/in/shawn-k-b9384a20a/
 
 <!---
